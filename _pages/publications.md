@@ -42,6 +42,7 @@ a:active {
   
 <a2><a name="tech"></a>Publised</a2></h3>
  
+<ul>
   
 <li> S.L. Zhou, N.H. Xiu and H.D. Qi <br>Journal of Machine Learning Research, 22(12):1−45, 2021<br>
 <i>Global and quadratic convergence of Newton hard-thresholding pursuit</i><br>
