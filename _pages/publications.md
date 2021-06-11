@@ -26,17 +26,22 @@ a:active {
 
 <hr>
 <h3>
-<a2><a name="tech"></a>Publised</a2></h3>
+  
+<a2><a name="tech"></a>Submitted</a2></h3> 
 
 <ul>
- <li> This is a test <br>
   
-S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
+<li> S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
 <i>Quadratic convergence of Newton's method for 0/1 loss optimization</i>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/350442413" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
+ 
+<a2><a name="tech"></a>Publised</a2></h3>
+
+<ul>
+ 
   
 <li> S.L. Zhou, N.H. Xiu and H.D. Qi <br>Journal of Machine Learning Research, 22(12):1−45, 2021<br>
 <i>Global and quadratic convergence of Newton hard-thresholding pursuit</i><br>
