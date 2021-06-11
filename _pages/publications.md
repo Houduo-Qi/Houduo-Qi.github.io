@@ -50,9 +50,8 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/330224407" target="_blank">RG</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/1901.02763" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a>
-<p style="line-height: 1;"></p>
-
-
+<br>
+  
 <li>L. Kong, C. Qi and  and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/smds.pdf">
 Classical multidimensional scaling: a subspace perspective, over-denoising and outlier detection,</a></i><br>
@@ -76,7 +75,7 @@ January, 2018. <br>
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html" target="_blank">PJO</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/299519906" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/IIHT" target="_blank">Code</a> 
-<p style="line-height: 1;"></p>
+<br>
 
 
 <li>S.L. Zhou, N.H. Xiu, Y.N. Wang, L.C. Kong and H.D. Qi, Information and Inference,  5(1): 76-102, 2016 <br>
@@ -84,60 +83,52 @@ January, 2018. <br>
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://academic.oup.com/imaiai/article/5/1/76/2357109" target="_blank">IMAIAI</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/294109268" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/MIRL1" target="_blank">Code</a> 
-<p style="line-height: 1;"></p>
-
+<br>
+  
 <li>S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
 <i>Quadratic convergence of Newton's method for 0/1 loss optimization</i>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/350442413" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>
-<p style="line-height: 1;"></p>
+<br>
 
-
-<font size=4> 
 <li>S.L. Zhou, N.H. Xiu and H.D. Qi, Mathematical Programming Computation, 12(3): 337–387, 2019<br>
 <i>Robust euclidean embedding via EDM optimization</i>, 
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://link.springer.com/article/10.1007/s12532-019-00168-0" target="_blank">MPC</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/PREEEDM" target="_blank">Code</a> 
-<p style="line-height: 1;"></p>
-
+<br>
+  
 <li>S.L. Zhou, N.H. Xiu and H.D. Qi, IEEE Transactions on Signal Processing,  66(16): 4331-4346, 2018<br> 
 <i>A fast matrix majorization-projection method for penalized stress minimization with box constraints</i>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://ieeexplore.ieee.org/document/8399531" target="_blank">TSP</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/SQREDM" target="_blank">Code</a>
-<p style="line-height: 1;"></p>
+<br>
 
-
-</li><li>J. Fliege, H.-D. Qi and N. Xiu<br>
+<li>J. Fliege, H.-D. Qi and N. Xiu<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDMOptimization.pdf">
 Euclidean distance matrix optimization for sensor network localization, </a></i><br>
 In: C. Gao, G. Zhao and H. Fourati, ed., Cooperative Localization and Navigation: Theory, Research and Practice. CRC Press, Taylor &amp; Francis Group, 2019.<br>
 
-
-</li><li>H.-D. Qi, J. Shen and N. Xiu<br>
+<li>H.-D. Qi, J. Shen and N. Xiu<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Hankle.pdf">
 A sequential majorization method for approximating weighted time series of finite rank</a></i><br>
 Statistics and Its Interface, 11 (2018), 615--630.<br>
 
-
-
-</li><li>S.L. Zhou, N. Xiu and  and H.-D. Qi<br>
+<li>S.L. Zhou, N. Xiu and  and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/SQREDM.pdf">
 A fast matrix majorization-projection method for penalized stress minimization with box constraints</a></i><br>
 IEEE Transactions on Signal Processing, 66 (2018), 4331--4346.<br>
 
-
-
-</li><li>X. Xiu, L. Kong, Y. Li and  and H.-D. Qi<br>
+<li>X. Xiu, L. Kong, Y. Li and  and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/IIHT.pdf">
 Iterative Reweighted Methods for l1-lp Minimization</a></i><br>
 Computational Optimization and Applications, 70 (2018), 201--219.<br>
 
-</li><li>Q. Li and H.-D. Qi<br>
+<li>Q. Li and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDM_Ordinal.pdf">
 An inexact smoothing Newton method for Euclidean distance matrix optimization under ordinal constraints</a></i><br>
 Journal of Computational Mathematics, 35 (2017), 467--483.<br>
 
-</li><li>L. Pan, S.L. Zhou, N. Xiu and H.-D. Qi<br>
+<li>L. Pan, S.L. Zhou, N. Xiu and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/IIHT.pdf">
 A Convergent Iterative Hard Thresholding for Sparsity and Nonnegativity Constrained Optimization</a></i><br>
 Pacific Journal of Optimization, 13 (2017), 325--353.<br>
