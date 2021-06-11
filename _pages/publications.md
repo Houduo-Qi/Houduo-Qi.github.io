@@ -69,16 +69,16 @@ Journal of Global Optimization, 76 (2020), 155-188. <br>
 Classical multidimensional scaling: a subspace perspective, over-denoising and outlier detection,</a></i><br>
 Codes: <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/fsmds_b.m"> fsmds.m </a></i>
                 and    <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/ssmds_b.m"> ssmds.m </a></i><br>
-IEEE Transactions on Signal Processing, 67 (2019), 3842--3857
+IEEE Transactions on Signal Processing, 67 (2019), 3842--3857. <br>
 
-\bibitem{ZLLQX19} {\sc C. Zhao, Z. Lu, W. Li, H.-D. Qi,  and N. Xiu}\\
-{\em Lagrangian duality and saddle points for sparse linear programming}\\
+<li>C. Zhao, Z. Lu, W. Li, H.-D. Qi,  and N. Xiu<br>
+Lagrangian duality and saddle points for sparse linear programming<br>
  Science China Mathematics, 62 (2019), 2015-2032. 
 
-	
-<li> H.-D. Qi, J. Shen and N.H. Xiu<br>
-  <i>A sequential majorization method for approximating weighted time series of finite rank</i><br>
- Statistics and Its Interface, 11 (2018), 615--630.
+<li>J. Fliege, H.-D. Qi and N. Xiu<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDMOptimization.pdf">
+Euclidean distance matrix optimization for sensor network localization, </a></i><br>
+In: C. Gao, G. Zhao and H. Fourati, ed., Cooperative Localization and Navigation: Theory, Research and Practice. CRC Press, Taylor &amp; Francis Group, 2019.<br>
 
 <li>S.L. Zhou, N.H. Xiu and H.D. Qi<br> 
 <i>A fast matrix majorization-projection method for penalized stress minimization with box constraints</i><br>
@@ -86,34 +86,12 @@ IEEE Transactions on Signal Processing, 67 (2019), 3842--3857
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://ieeexplore.ieee.org/document/8399531" target="_blank">TSP</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/SQREDM" target="_blank">Code</a>
 <br>
-
-<li> X. Xiu, L. Kong, Y. Li, and H.-D. Qi>br>
-  <i>Iterative reweighted methods for $\ell_p$ minimization</i><br>
- Computational Optimization and Applications, 70 (2018), 201-219.
-
-   
-<li>L.L. Pan,  S.L. Zhou, N.H. Xiu and H.D. Qi <br>
-<i>A convergent iterative hard thresholding for sparsity and nonnegativity constrained optimization</i><br>
-  Pacific Journal of Optimization,  13(2): 325-353, 2017.
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html" target="_blank">PJO</a>,
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/299519906" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/IIHT" target="_blank">Code</a> 
-<br>
-  
-<li>J. Fliege, H.-D. Qi and N. Xiu<br>
-<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDMOptimization.pdf">
-Euclidean distance matrix optimization for sensor network localization, </a></i><br>
-In: C. Gao, G. Zhao and H. Fourati, ed., Cooperative Localization and Navigation: Theory, Research and Practice. CRC Press, Taylor &amp; Francis Group, 2019.<br>
-
+     
 <li>H.-D. Qi, J. Shen and N. Xiu<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Hankle.pdf">
 A sequential majorization method for approximating weighted time series of finite rank</a></i><br>
 Statistics and Its Interface, 11 (2018), 615--630.<br>
 
-<li>S.L. Zhou, N. Xiu and  and H.-D. Qi<br>
-<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/SQREDM.pdf">
-A fast matrix majorization-projection method for penalized stress minimization with box constraints</a></i><br>
-IEEE Transactions on Signal Processing, 66 (2018), 4331--4346.<br>
 
 <li>X. Xiu, L. Kong, Y. Li and  and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/IIHT.pdf">
@@ -125,10 +103,13 @@ Computational Optimization and Applications, 70 (2018), 201--219.<br>
 An inexact smoothing Newton method for Euclidean distance matrix optimization under ordinal constraints</a></i><br>
 Journal of Computational Mathematics, 35 (2017), 467--483.<br>
 
-<li>L. Pan, S.L. Zhou, N. Xiu and H.-D. Qi<br>
-<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/IIHT.pdf">
-A Convergent Iterative Hard Thresholding for Sparsity and Nonnegativity Constrained Optimization</a></i><br>
-Pacific Journal of Optimization, 13 (2017), 325--353.<br>
+<li>L.L. Pan,  S.L. Zhou, N.H. Xiu and H.D. Qi <br>
+<i>A convergent iterative hard thresholding for sparsity and nonnegativity constrained optimization</i><br>
+  Pacific Journal of Optimization,  13(2): 325-353, 2017.
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html" target="_blank">PJO</a>,
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/299519906" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/IIHT" target="_blank">Code</a> 
+<br>
 
 </li><li>Chao Ding and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDME.pdf">
@@ -173,8 +154,6 @@ Journal of Industrial Management and Optimization, 12 (2016), pp. 543--563. <br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/SphereEDM.pdf">
 Constrained Best Euclidean Distance Embedding on a Sphere: a Matrix Optimization Approach</a></i><br>
 SIAM J. Optimization, 25 (2015), pp. 439--467.<br>
-
-
 
 </li><li>Chao Ding and H.-D. Qi <br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Extrinsic_Mean_Shape_Revised.pdf">
