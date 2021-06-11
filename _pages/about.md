@@ -27,6 +27,13 @@ a:active {
 </style>
 
 
+<span style="color:#225675">Current Position</span>
+---
+Professor of Optimization, 2017-- <br>
+<a style="color:#007D98" href='https://www.soton.ac.uk/maths' target="_blank">School of Mathematical Sciences</a>
+University of Southampton <br>
+Southampton, SO17 1BJ, England
+
 <span style="color:#225675">Education and Work Experience</span>
 ---
 Research Associate, 2021-present <br>
