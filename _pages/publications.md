@@ -28,6 +28,141 @@ a:active {
 
 ## <span style="color:#225675"><b style="font-size:20px">Sparse Optimization</b></span>
 ---
+<hr>
+<h3>
+<a2><a name="tech"></a>Recent Publication and Technical Reports</a2></h3>
+
+<ul>
+
+
+<li>L. Kong, C. Qi and  and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/smds.pdf">
+Classical multidimensional scaling: a subspace perspective, over-denoising and outlier detection,</a></i><br>
+November, 2018. Codes: <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/fsmds_b.m"> fsmds.m </a></i>
+                and    <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/ssmds_b.m"> ssmds.m </a></i><br>
+
+</li><li>S.L. Zhou, N. Xiu and  and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/preeedm.pdf">
+Robust Euclidean embedding via EDM optimization,</a></i><br>
+March, 2018. <br>
+
+
+</li><li>Y. Lu, C.-Y. Yang, J.-S. Chen and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Decomposition_Nonsymmetric_Cone.pdf">
+The decompositions of non-symmetric cones</a></i><br>
+January, 2018. <br>
+
+
+</li><li>J. Fliege, H.-D. Qi and N. Xiu<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDMOptimization.pdf">
+Euclidean distance matrix optimization for sensor network localization, </a></i><br>
+In: C. Gao, G. Zhao and H. Fourati, ed., Cooperative Localization and Navigation: Theory, Research and Practice. CRC Press, Taylor &amp; Francis Group, 2019.<br>
+
+
+</li><li>H.-D. Qi, J. Shen and N. Xiu<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Hankle.pdf">
+A sequential majorization method for approximating weighted time series of finite rank</a></i><br>
+Statistics and Its Interface, 11 (2018), 615--630.<br>
+
+
+
+</li><li>S.L. Zhou, N. Xiu and  and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/SQREDM.pdf">
+A fast matrix majorization-projection method for penalized stress minimization with box constraints</a></i><br>
+IEEE Transactions on Signal Processing, 66 (2018), 4331--4346.<br>
+
+
+
+</li><li>X. Xiu, L. Kong, Y. Li and  and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/IIHT.pdf">
+Iterative Reweighted Methods for l1-lp Minimization</a></i><br>
+Computational Optimization and Applications, 70 (2018), 201--219.<br>
+
+</li><li>Q. Li and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDM_Ordinal.pdf">
+An inexact smoothing Newton method for Euclidean distance matrix optimization under ordinal constraints</a></i><br>
+Journal of Computational Mathematics, 35 (2017), 467--483.<br>
+
+</li><li>L. Pan, S.L. Zhou, N. Xiu and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/IIHT.pdf">
+A Convergent Iterative Hard Thresholding for Sparsity and Nonnegativity Constrained Optimization</a></i><br>
+Pacific Journal of Optimization, 13 (2017), 325--353.<br>
+
+</li><li>Chao Ding and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDME.pdf">
+Convex Optimization Learning of Faithful Euclidean Distance Representations in Nonlinear Dimensionality Reduction</a></i><br>
+Mathematical Programming, 164 (2017), 341--381.  <br>
+
+</li><li>H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/LLEMDS.pdf">
+A Convex Matrix Optimization for the Additive Constant Problem in Multidimensional Scaling
+with Application to locally linear embedding</a></i><br>
+October 2015; 
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/M104313.pdf">Revised April 2016</a></i>
+(Matlab code for H-weighted case: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/CENewton_h.m">CENewton_h</a>, need
+<a href="http://www.personal.soton.ac.uk/hdqi/CODES/CENewton.m">CENewton</a> and
+<a href="http://www.personal.soton.ac.uk/hdqi/CODES/CENewton_d.m">CENewton_d</a>) <br>
+SIAM J. Optimization, 26-4 (2016), pp. 2564--2590. <br>
+
+</li><li>Shuanghua Bai and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDMSNL.pdf">
+Tackling the Flip Ambiguity in Wireless Sensor Network Localization and Beyond</a></i><br>
+July 2015 (Matlab code: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/EDMSNL.zip">EDME.zip</a>) <br>
+Digital Signal Processing, 55 (2016), pp. 85--97. <br>
+
+</li><li>Shenglong Zhou, Naihua Xiu, Yingnan Wang, Lingchen Kong,
+and Hou-Duo Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Weighted_ell_1.pdf">
+A Null-Space-Based Weighted $\ell_1$ Minimization Approach to Compressed Sensing</a></i><br>
+Information and Inference 5 (2016), pp. 76--102.<br>
+
+
+</li><li>Chao Ding and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/NLOS.pdf">
+Convex Euclidean distance embedding for collaborative position localization with NLOS mitigation</a></i><br>
+April 2015 (Revised September 2015) (Matlab code: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/NLOSEDM.zip">NLOSEDM.zip</a>)  <br>   
+Computational Optimization and Applications, 66 (2017), 187--218. <br>                                                                                                                         
+                                                                                        
+</li></ul>
+                                                                                        
+<hr>
+<h3>
+
+<a2><a name="pub"></a>Publications by Area (see <a2><a name="pub"></a>
+<a href="http://www.personal.soton.ac.uk/hdqi/publication_list.html">
+Complete list</a>)</a2></a2></h3> 
+
+<h3>
+<a2><a name="pub"></a>
+<a href="http://www.personal.soton.ac.uk/hdqi/Interpolation.html">
+Constrained Interpolation and Smoothing</a></a2></h3>
+
+<h3>
+<a2><a name="pub"></a>
+<a href="http://www.personal.soton.ac.uk/hdqi/MatrixOpt.html">
+Matrix Optimization (SDP and Nearest Correlation Matrix)</a></a2></h3>
+
+<h3>
+<a2><a name="pub"></a>
+<a href="http://www.personal.soton.ac.uk/hdqi/NCP.html">
+Nonlinear Complementarity Problems</a></a2></h3> 
+
+<h3>
+<a2><a name="pub"></a>
+<a href="http://www.personal.soton.ac.uk/hdqi/NLP.html">
+Nonlinear Optimization</a></a2></h3>              
+
+<h3>
+<a2><a name="pub"></a>
+<a href="http://www.personal.soton.ac.uk/hdqi/NN.html">
+Stability Analysis on Neural Networks</a></a2></h3>
+
+<hr>
+<h3>
+
+
+
+
 
 <font size=4> 
 S.L. Zhou, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021 <br>
