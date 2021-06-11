@@ -50,17 +50,10 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/1901.02763" target="_blank">ArXiv</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/NHTPver2" target="_blank">Code</a>
 <br>
-  
-<li>L. Kong, C. Qi and  and H.-D. Qi<br>
-<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/smds.pdf">
-Classical multidimensional scaling: a subspace perspective, over-denoising and outlier detection,</a></i><br>
-November, 2018. Codes: <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/fsmds_b.m"> fsmds.m </a></i>
-                and    <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/ssmds_b.m"> ssmds.m </a></i><br>
-
-  
+    
 <li>S.L. Zhou, N.H. Xiu and H.D. Qi <br>
 <i>Robust euclidean embedding via EDM optimization</i><br>
-Mathematical Programming Computation, 12(3): 337–387, 2019.
+Mathematical Programming Computation, 12(3): 337–387, 2020.
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://link.springer.com/article/10.1007/s12532-019-00168-0" target="_blank">MPC</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/PREEEDM" target="_blank">Code</a> 
 <br>
@@ -69,25 +62,24 @@ Mathematical Programming Computation, 12(3): 337–387, 2019.
 <li>Y. Lu, C.-Y. Yang, J.-S. Chen and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Decomposition_Nonsymmetric_Cone.pdf">
 The decompositions of non-symmetric cones</a></i><br>
-January, 2018. <br>
+Journal of Global Optimization, 76 (2020), 155-188. <br>
 
-<li>L.L. Pan,  S.L. Zhou, N.H. Xiu and H.D. Qi <br>
-<i>A convergent iterative hard thresholding for sparsity and nonnegativity constrained optimization</i><br>
-  Pacific Journal of Optimization,  13(2): 325-353, 2017.
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html" target="_blank">PJO</a>,
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/299519906" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/IIHT" target="_blank">Code</a> 
-<br>
+ <li>L. Kong, C. Qi and  and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/smds.pdf">
+Classical multidimensional scaling: a subspace perspective, over-denoising and outlier detection,</a></i><br>
+Codes: <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/fsmds_b.m"> fsmds.m </a></i>
+                and    <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/ssmds_b.m"> ssmds.m </a></i><br>
+IEEE Transactions on Signal Processing, 67 (2019), 3842--3857
 
+\bibitem{ZLLQX19} {\sc C. Zhao, Z. Lu, W. Li, H.-D. Qi,  and N. Xiu}\\
+{\em Lagrangian duality and saddle points for sparse linear programming}\\
+ Science China Mathematics, 62 (2019), 2015-2032. 
 
-<li>S.L. Zhou, N.H. Xiu, Y.N. Wang, L.C. Kong and H.D. Qi <br>
-<i>A Null-space-based weighted l1 minimization approach to compressed sensing</i><br>
-  Information and Inference,  5(1): 76-102, 2016.
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://academic.oup.com/imaiai/article/5/1/76/2357109" target="_blank">IMAIAI</a>,
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/294109268" target="_blank">RG</a>,
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/MIRL1" target="_blank">Code</a> 
-<br>
-  
+	
+<li> H.-D. Qi, J. Shen and N.H. Xiu<br>
+  <i>A sequential majorization method for approximating weighted time series of finite rank</i><br>
+ Statistics and Its Interface, 11 (2018), 615--630.
+
 <li>S.L. Zhou, N.H. Xiu and H.D. Qi<br> 
 <i>A fast matrix majorization-projection method for penalized stress minimization with box constraints</i><br>
   IEEE Transactions on Signal Processing,  66(16): 4331-4346, 2018.
@@ -95,6 +87,19 @@ January, 2018. <br>
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/SQREDM" target="_blank">Code</a>
 <br>
 
+<li> X. Xiu, L. Kong, Y. Li, and H.-D. Qi>br>
+  <i>Iterative reweighted methods for $\ell_p$ minimization</i><br>
+ Computational Optimization and Applications, 70 (2018), 201-219.
+
+   
+<li>L.L. Pan,  S.L. Zhou, N.H. Xiu and H.D. Qi <br>
+<i>A convergent iterative hard thresholding for sparsity and nonnegativity constrained optimization</i><br>
+  Pacific Journal of Optimization,  13(2): 325-353, 2017.
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html" target="_blank">PJO</a>,
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/299519906" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/IIHT" target="_blank">Code</a> 
+<br>
+  
 <li>J. Fliege, H.-D. Qi and N. Xiu<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDMOptimization.pdf">
 Euclidean distance matrix optimization for sensor network localization, </a></i><br>
@@ -151,11 +156,13 @@ Tackling the Flip Ambiguity in Wireless Sensor Network Localization and Beyond</
 (Matlab code: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/EDMSNL.zip">EDME.zip</a>) <br>
 Digital Signal Processing, 55 (2016), pp. 85--97. <br>
  
-</li><li>Shenglong Zhou, Naihua Xiu, Yingnan Wang, Lingchen Kong,
-and Hou-Duo Qi<br>
-<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Weighted_ell_1.pdf">
-A Null-Space-Based Weighted $\ell_1$ Minimization Approach to Compressed Sensing</a></i><br>
-Information and Inference 5 (2016), pp. 76--102.<br>
+<li>S.L. Zhou, N.H. Xiu, Y.N. Wang, L.C. Kong and H.D. Qi <br>
+<i>A Null-space-based weighted l1 minimization approach to compressed sensing</i><br>
+  Information and Inference,  5(1): 76-102, 2016.
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://academic.oup.com/imaiai/article/5/1/76/2357109" target="_blank">IMAIAI</a>,
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/294109268" target="_blank">RG</a>,
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/MIRL1" target="_blank">Code</a> 
+<br>
 
 </li><li>Sohana Jahan and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/RMDS.pdf">
