@@ -56,18 +56,18 @@ November, 2018. Codes: <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/fs
                 and    <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/ssmds_b.m"> ssmds.m </a></i><br>
 
   
-</li><li>S.L. Zhou, N. Xiu and  and H.-D. Qi<br>
+<li>S.L. Zhou, N. Xiu and  and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/preeedm.pdf">
 Robust Euclidean embedding via EDM optimization,</a></i><br>
 March, 2018. <br>
 
 
-</li><li>Y. Lu, C.-Y. Yang, J.-S. Chen and H.-D. Qi<br>
+<li>Y. Lu, C.-Y. Yang, J.-S. Chen and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Decomposition_Nonsymmetric_Cone.pdf">
 The decompositions of non-symmetric cones</a></i><br>
 January, 2018. <br>
 
-L.L. Pan,  S.L. Zhou, N.H. Xiu and H.D. Qi, Pacific Journal of Optimization,  13(2): 325-353, 2017 <br>
+<li>L.L. Pan,  S.L. Zhou, N.H. Xiu and H.D. Qi, Pacific Journal of Optimization,  13(2): 325-353, 2017 <br>
 <i>A convergent iterative hard thresholding for sparsity and nonnegativity constrained optimization</i>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html" target="_blank">PJO</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/299519906" target="_blank">RG</a>,
@@ -75,14 +75,14 @@ L.L. Pan,  S.L. Zhou, N.H. Xiu and H.D. Qi, Pacific Journal of Optimization,  13
 <p style="line-height: 1;"></p>
 
 
-S.L. Zhou, N.H. Xiu, Y.N. Wang, L.C. Kong and H.D. Qi, Information and Inference,  5(1): 76-102, 2016 <br>
+<li>S.L. Zhou, N.H. Xiu, Y.N. Wang, L.C. Kong and H.D. Qi, Information and Inference,  5(1): 76-102, 2016 <br>
 <i>A Null-space-based weighted l1 minimization approach to compressed sensing</i>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://academic.oup.com/imaiai/article/5/1/76/2357109" target="_blank">IMAIAI</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/294109268" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/MIRL1" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
 
-S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
+<li>S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
 <i>Quadratic convergence of Newton's method for 0/1 loss optimization</i>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/350442413" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>
@@ -90,19 +90,17 @@ S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
 
 
 <font size=4> 
-S.L. Zhou, N.H. Xiu and H.D. Qi, Mathematical Programming Computation, 12(3): 337–387, 2019<br>
+<li>S.L. Zhou, N.H. Xiu and H.D. Qi, Mathematical Programming Computation, 12(3): 337–387, 2019<br>
 <i>Robust euclidean embedding via EDM optimization</i>, 
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://link.springer.com/article/10.1007/s12532-019-00168-0" target="_blank">MPC</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/PREEEDM" target="_blank">Code</a> 
 <p style="line-height: 1;"></p>
 
-S.L. Zhou, N.H. Xiu and H.D. Qi, IEEE Transactions on Signal Processing,  66(16): 4331-4346, 2018<br> 
+<li>S.L. Zhou, N.H. Xiu and H.D. Qi, IEEE Transactions on Signal Processing,  66(16): 4331-4346, 2018<br> 
 <i>A fast matrix majorization-projection method for penalized stress minimization with box constraints</i>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://ieeexplore.ieee.org/document/8399531" target="_blank">TSP</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/SQREDM" target="_blank">Code</a>
 <p style="line-height: 1;"></p>
-
-</font>
 
 
 </li><li>J. Fliege, H.-D. Qi and N. Xiu<br>
