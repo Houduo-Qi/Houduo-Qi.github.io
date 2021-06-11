@@ -29,6 +29,7 @@ a:active {
 <a2><a name="tech"></a>Publised</a2></h3>
 
 <ul>
+ <li> This is a test <br>
   
 S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
 <i>Quadratic convergence of Newton's method for 0/1 loss optimization</i>,
