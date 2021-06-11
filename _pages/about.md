@@ -30,19 +30,28 @@ a:active {
 <span style="color:#225675">Current Position</span>
 ---
 Professor of Optimization, 2017-- <br>
-<a style="color:#007D98" href='https://www.soton.ac.uk/maths' target="_blank">School of Mathematical Sciences</a>
+<a style="color:#007D98" href='https://www.soton.ac.uk/maths' target="_blank">School of Mathematical Sciences</a> <br>
 University of Southampton <br>
 Southampton, SO17 1BJ, England
 
-<span style="color:#225675">Education and Work Experience</span>
+<span style="color:#225675">Past Employments</span>
 ---
-Research Associate, 2021-present <br>
-<a style="color:#007D98" href='https://www.imperial.ac.uk/electrical-engineering' target="_blank">Department of EEE</a>,
-<a style="color:#007D98" href='https://www.imperial.ac.uk/' target="_blank">Imperial College London</a>, UK <br>
-<br>
-Teaching Fellow, 2020-2021 <br>
-Research Fellow, 2017-2020 <br>
-School of Mathematics, University of Southampton, UK <br>
+Associate Professor, 2013-2016 <br>
+Senior Lecturer,     2010-2012 <br>
+Lecturer,            2004-2009 <br>
+<a style="color:#007D98" href='https://www.soton.ac.uk/maths' target="_blank">School of Mathematical Sciences</a> <br>
+University of Southampton <br>
+
+Queen Elizabeth II Fellow, 2004-2009 (leave from 09.2004) <br>
+<a style="color:#007D98" href='https://www.maths.unsw.edu.au' target="_blank">School of Mathematics and Statistics</a> <br>
+University of New South Wales (UNSW), Australia <br>
+
+Research Fellow and Postdocs, 1997-2003 <br>
+Institute of Computational Mathematics, Academy of Mathematics and System Science, Chinese Academy of Sciences <br>
+Department of Mathematics, Hong Kong Baptist University <br>
+School of Mathematics and Statistics, UNSW <br>
+Department of Applied Mathematics, Hong Kong Ploytechnic University <br>
+
 <br>
 PhD in  Operational Research, 2014-2017 <br>
 <a style="color:#007D98" href='https://www.southampton.ac.uk/maths' target="_blank">School of Mathematics</a>, <a style="color:#007D98" href='https://www.southampton.ac.uk/' target="_blank">University of Southampton</a>, UK <br>
