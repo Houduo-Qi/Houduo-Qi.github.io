@@ -37,7 +37,9 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
 
- 
+<hr>
+<h3>
+  
 <a2><a name="tech"></a>Publised</a2></h3>
 
 <ul>
