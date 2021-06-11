@@ -33,7 +33,7 @@ Professor of Optimization, 2017-- <br>
 <a style="color:#007D98" href='https://www.soton.ac.uk/maths' target="_blank">School of Mathematical Sciences</a> <br>
 University of Southampton <br>
 Southampton, SO17 1BJ, England <br>
-and
+and <br>
 Turing Fellow (2019-) <br>
 <a style="color:#007D98" href='https://www.turing.ac.uk' target="_blank">The Alan Turing Institute</a> <br>
 
