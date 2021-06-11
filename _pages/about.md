@@ -39,9 +39,9 @@ Turing Fellow (2019-) <br>
 
 <span style="color:#225675">Past Employments</span>
 ---
-Associate Professor, 2013-2016 <br>
-Senior Lecturer,     2010-2012 <br>
-Lecturer,            2004-2009 <br>
+Associate Professor (2013-2016);
+Senior Lecturer (2010-2012);
+Lecturer           (2004-2009) <br>
 <a style="color:#007D98" href='https://www.soton.ac.uk/maths' target="_blank">School of Mathematical Sciences</a> <br>
 University of Southampton <br>
 
