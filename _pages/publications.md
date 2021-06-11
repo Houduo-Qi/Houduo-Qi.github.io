@@ -41,11 +41,10 @@ a:active {
 <hr>
 <h3>   
 <a2><a name="tech"></a>Publised</a2></h3>
-  </li></ul>
   
 <li> S.L. Zhou, N.H. Xiu and H.D. Qi <br>
 <i>Global and quadratic convergence of Newton hard-thresholding pursuit</i><br>
-  Journal of Machine Learning Research, 22(12):1−45, 2021<br>
+  Journal of Machine Learning Research, 22(12):1−45, 2021.
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://jmlr.org/papers/v22/19-026.html" target="_blank">JMLR</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/330224407" target="_blank">RG</a>, 
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/1901.02763" target="_blank">ArXiv</a>, 
@@ -61,7 +60,7 @@ November, 2018. Codes: <i><a href="http://www.personal.soton.ac.uk/hdqi/CODES/fs
   
 <li>S.L. Zhou, N.H. Xiu and H.D. Qi <br>
 <i>Robust euclidean embedding via EDM optimization</i><br>
-Mathematical Programming Computation, 12(3): 337–387, 2019<br>
+Mathematical Programming Computation, 12(3): 337–387, 2019.
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://link.springer.com/article/10.1007/s12532-019-00168-0" target="_blank">MPC</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/PREEEDM" target="_blank">Code</a> 
 <br>
@@ -74,7 +73,7 @@ January, 2018. <br>
 
 <li>L.L. Pan,  S.L. Zhou, N.H. Xiu and H.D. Qi <br>
 <i>A convergent iterative hard thresholding for sparsity and nonnegativity constrained optimization</i><br>
-  Pacific Journal of Optimization,  13(2): 325-353, 2017<br>
+  Pacific Journal of Optimization,  13(2): 325-353, 2017.
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="http://www.yokohamapublishers.jp/online2/oppjo/vol13/p325.html" target="_blank">PJO</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/299519906" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/IIHT" target="_blank">Code</a> 
@@ -83,7 +82,7 @@ January, 2018. <br>
 
 <li>S.L. Zhou, N.H. Xiu, Y.N. Wang, L.C. Kong and H.D. Qi <br>
 <i>A Null-space-based weighted l1 minimization approach to compressed sensing</i><br>
-  Information and Inference,  5(1): 76-102, 2016 <br>
+  Information and Inference,  5(1): 76-102, 2016.
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://academic.oup.com/imaiai/article/5/1/76/2357109" target="_blank">IMAIAI</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/294109268" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/ShenglongZhou/MIRL1" target="_blank">Code</a> 
@@ -131,12 +130,16 @@ Pacific Journal of Optimization, 13 (2017), 325--353.<br>
 Convex Optimization Learning of Faithful Euclidean Distance Representations in Nonlinear Dimensionality Reduction</a></i><br>
 Mathematical Programming, 164 (2017), 341--381.  <br>
 
+  </li><li>Chao Ding and H.-D. Qi<br>
+<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/NLOS.pdf">
+Convex Euclidean distance embedding for collaborative position localization with NLOS mitigation</a></i><br>
+April 2015 (Revised September 2015) (Matlab code: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/NLOSEDM.zip">NLOSEDM.zip</a>)  <br>   
+Computational Optimization and Applications, 66 (2017), 187--218. <br>                                                                                                         
+
 </li><li>H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/LLEMDS.pdf">
 A Convex Matrix Optimization for the Additive Constant Problem in Multidimensional Scaling
 with Application to locally linear embedding</a></i><br>
-October 2015; 
-<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/M104313.pdf">Revised April 2016</a></i>
 (Matlab code for H-weighted case: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/CENewton_h.m">CENewton_h</a>, need
 <a href="http://www.personal.soton.ac.uk/hdqi/CODES/CENewton.m">CENewton</a> and
 <a href="http://www.personal.soton.ac.uk/hdqi/CODES/CENewton_d.m">CENewton_d</a>) <br>
@@ -145,21 +148,8 @@ SIAM J. Optimization, 26-4 (2016), pp. 2564--2590. <br>
 </li><li>Shuanghua Bai and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/EDMSNL.pdf">
 Tackling the Flip Ambiguity in Wireless Sensor Network Localization and Beyond</a></i><br>
-July 2015 (Matlab code: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/EDMSNL.zip">EDME.zip</a>) <br>
+(Matlab code: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/EDMSNL.zip">EDME.zip</a>) <br>
 Digital Signal Processing, 55 (2016), pp. 85--97. <br>
-
-</li><li>Shenglong Zhou, Naihua Xiu, Yingnan Wang, Lingchen Kong,
-and Hou-Duo Qi<br>
-<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Weighted_ell_1.pdf">
-A Null-Space-Based Weighted $\ell_1$ Minimization Approach to Compressed Sensing</a></i><br>
-Information and Inference 5 (2016), pp. 76--102.<br>
-
-
-</li><li>Chao Ding and H.-D. Qi<br>
-<i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/NLOS.pdf">
-Convex Euclidean distance embedding for collaborative position localization with NLOS mitigation</a></i><br>
-April 2015 (Revised September 2015) (Matlab code: <a href="http://www.personal.soton.ac.uk/hdqi/CODES/NLOSEDM.zip">NLOSEDM.zip</a>)  <br>   
-Computational Optimization and Applications, 66 (2017), 187--218. <br>                                                                                                         
  
 </li><li>Shenglong Zhou, Naihua Xiu, Yingnan Wang, Lingchen Kong,
 and Hou-Duo Qi<br>
@@ -193,7 +183,7 @@ Asia-Pacific Journal of Operations Research, 32 (2015), 1540005 (16 pages).<br>
 Computing the Nearest Euclidean Distance Matrix with Low Embedding Dimensions</a></i><br>
 (See the Matlab area for the EMBED package used in the paper).
 <br>
-Mathematical Programming, Ser. A (2014) 147:351�389 (DOI: 10.1007/s10107-013-0726-0).
+Mathematical Programming, Ser. A (2014) 147:351--389 (DOI: 10.1007/s10107-013-0726-0).
 
 </li><li>H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/cqsdp14.pdf">
@@ -227,12 +217,12 @@ Journal of Statistical Computation and Simulation, 82 (2012), 1317--1336.
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/LQ_SIOPT_11.pdf">
 A sequential semismooth Newton method for the nearest low-rank correlation matrix problem
 (published version) </a></i><br>
-SIAM Journal on Optimization, Vol 21 (2011), 1641�1666.
+SIAM Journal on Optimization, Vol 21 (2011), 1641--1666.
 
 </li><li> H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/JSPI11.pdf">
 A semidefinite programming study of the Elfving theorem</a></i><br>
-Journal of Statistical Planning and Inference, Vol 141 (2011), 3117�3130.
+Journal of Statistical Planning and Inference, Vol 141 (2011), 3117--3130.
 
 </li><li> Q. Li, H.-D. Qi, and N.H. Xiu<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/LQX11.pdf">
@@ -242,12 +232,12 @@ Computational Optimization and Applications, Vol 50 (2011), 327--349.
 </li><li> H.-D. Qi and <a href="http://www.math.nus.edu.sg/~matsundf/">D.F. Sun</a><br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/Cor_matrix_H.pdf">
 An Augmented Lagrangian Dual Approach for the $H$-Weighted Nearest Correlation Matrix Problem</a></i><br>
-IMA J. Numerical Analysis, Vol 31 (2011), 491�511 
+IMA J. Numerical Analysis, Vol 31 (2011), 491--511 
 
 </li><li>Q. Li, D. Li, and H.-D. Qi<br>
 <i><a href="http://www.personal.soton.ac.uk/hdqi/REPORTS/JOTA10.pdf">
-Newton�s method for computing the nearest correlation matrix with a simple upper bound</a></i><br> 
-Journal of Optimization Theory and Applications, Vol 147 (2010), 546�568.
+Newton's method for computing the nearest correlation matrix with a simple upper bound</a></i><br> 
+Journal of Optimization Theory and Applications, Vol 147 (2010), 546--568.
 
 </li><li> H.-D. Qi and 
 <a href="http://www.math.nus.edu.sg/~matsundf/">D.F. Sun</a><br>
