@@ -30,6 +30,10 @@ a:active {
 <a2><a name="tech"></a>Submitted</a2></h3> 
 
 <ul>
+ 
+<li> Houduo Qi, 2021 <br>
+  <i>On the Long-only Minimum Variance Portfolio Under Single Factor Model</i>
+  </li>
   
 <li> S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
 <i>Quadratic convergence of Newton's method for 0/1 loss optimization</i>,
@@ -37,8 +41,13 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>
  </li>
 
-<li> Jian Shen, Jein-Shan Chen, Hou-Duo Qi, and Naihua Xiu, 08/2020 <br>
+<li> Hongxin Zhao, Lingchen Kong, and Houduo Qi, 2021<br>
+<i>Optimal Portfolio Selections via $\ell_{1, 2}$-norm Regularization</i>
+  </li>
+ 
+<li> Jian Shen, Jein-Shan Chen, Hou-Duo Qi, and Naihua Xiu, 08/2020 (revised 05/2020) <br>
 <i>A Penalized Method of Alternating Projections for Weighted Low-Rank Hankel Matrix Optimization</i>,
+  <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/slra/slra" target="_blank">Code</a>
  </li>
  
 <li> Chen Zhao, Naihua Xiu, Houduo Qi, and Ziyan Luo, 04/2020 (revised 02/2021) <br>
