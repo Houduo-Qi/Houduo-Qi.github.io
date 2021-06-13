@@ -59,7 +59,7 @@ a:active {
 
 <hr>
 <h3>   
-<a2><a name="tech"></a>Publised</a2></h3>
+<a2><a name="tech"></a>Published</a2></h3>
 
 <li> S.L. Zhou, N.H. Xiu and H.D. Qi <br>
 <i>Global and quadratic convergence of Newton hard-thresholding pursuit</i><br>
