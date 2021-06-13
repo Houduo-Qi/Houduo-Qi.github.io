@@ -27,7 +27,6 @@ a:active {
 
 
 
-
 ## <span style="color:#225675"><b style="font-size:20px">Sparse  Optimization Solvers</b></span>
 ---
 
