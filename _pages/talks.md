@@ -26,10 +26,10 @@ a:active {
 </style>
 
 
- * <a Rank-2 Optimization Model for Multidimensional Scaling Graph Drawing (PI, 2020-2022) </a><br>
+ * Rank-2 Optimization Model for Multidimensional Scaling Graph Drawing (PI, 2020-2022) <br>
  The Royal Society (£12,000).
  
- * <a EAT – Economic Aging of Transformers (CI, 2019-2021) </a> <br>
+ * EAT – Economic Aging of Transformers (CI, 2019-2021; PI: A/F Stefano Coniglio) <br>
    National Grid (£446,813)
 
 
