@@ -16,7 +16,4 @@ main:
     url: /talks/
     
   - title: <span style="color:#225675"><b>Teaching</b></span>
-    url: /teaching/    
-    
-  - title: <span style="color:#225675"><b>Toolbox</b></span>
-    url: /Toolbox/    
+    url: /teaching/        
