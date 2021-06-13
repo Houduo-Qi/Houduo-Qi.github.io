@@ -117,9 +117,7 @@ a:active {
           <td style="width:5%" align="center">$\surd$</td> 
       </tr>
       </table>
-  </details> 
-  </font>
-
+  </details>
 
 ## <span style="color:#225675"><b style="font-size:20px">EDM Optimization Solvers</b></span>
 ---
