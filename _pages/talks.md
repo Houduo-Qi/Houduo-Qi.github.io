@@ -26,8 +26,12 @@ a:active {
 </style>
 
 
- * <a style="color:#225675" href='https://arxiv.org/abs/2007.15737' target="_blank"><i>Heaviside optimisation: optimality and Newton method</i></a><br>
- Department of Mathematics, Beijing Jiaotong University, 18 Aug 2020.
+ *<i> Rank-2 Optimization Model for Multidimensional Scaling Graph Drawing (PI, 2020-2022) </i><br>
+ The Royal Society (£12,000).
+ 
+ * <i EAT – Economic Aging of Transformers (CI, 2019-2021) </i> <br>
+   National Grid (£446,813)
+
 
  * <a style="color:#225675" href='https://shenglongzhou.github.io/files/Bilevel-optimisation-hyperparameter-tuning.pdf' target="_blank"><i>Bilevel optimisation with applications into hyper-parameter tuning in machine learning</i></a> <br>
  <a style="font-size: 16px; font-weight: bold; color:#007D98" href='https://turing-optimization.github.io/' target="_blank">Turing Optimisation Club Meeting</a>, The Alan Turing Institute, Lodon, 11 Nov 2019.
