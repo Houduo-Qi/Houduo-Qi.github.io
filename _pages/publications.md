@@ -36,7 +36,18 @@ a:active {
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/350442413" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>
 <p style="line-height: 1;"></p>
- </li></ul>
+ </li>
+
+<li> Jian Shen, Jein-Shan Chen, Hou-Duo Qi, and Naihua Xiu, 08/2020 <br>
+<i>A Penalized Method of Alternating Projections for Weighted Low-Rank Hankel Matrix Optimization</i>,
+ </li>
+ 
+<li> Chen Zhao, Naihua Xiu, Houduo Qi, and Ziyan Luo, 04/2020 (revised 02/2021) <br>
+<i>A Lagrange-Newton Algorithm for Sparse Nonlinear Programming</i>,
+</li>
+
+
+</ul>
  
 <hr>
 <h3>   
