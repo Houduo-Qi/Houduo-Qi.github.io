@@ -13,7 +13,4 @@ main:
     url: /research projects/    
     
   - title: <span style="color:#225675"><b>Talks</b></span>
-    url: /talks/
-    
-  - title: <span style="color:#225675"><b>Teaching</b></span>
-    url: /teaching/        
+    url: /talks/      
