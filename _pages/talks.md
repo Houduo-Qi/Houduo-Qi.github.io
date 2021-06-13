@@ -26,24 +26,23 @@ a:active {
 </style>
 
 
- * Rank-2 Optimization Model for Multidimensional Scaling Graph Drawing (PI, 2020-2022) <br>
- The Royal Society (£12,000).
- 
- * EAT – Economic Aging of Transformers (CI, 2019-2021; PI: A/F Stefano Coniglio) <br>
-   National Grid (£446,813)
-
-
- * <a style="color:#225675" href='https://shenglongzhou.github.io/files/Bilevel-optimisation-hyperparameter-tuning.pdf' target="_blank"><i>Bilevel optimisation with applications into hyper-parameter tuning in machine learning</i></a> <br>
- <a style="font-size: 16px; font-weight: bold; color:#007D98" href='https://turing-optimization.github.io/' target="_blank">Turing Optimisation Club Meeting</a>, The Alan Turing Institute, Lodon, 11 Nov 2019.
-
- * <a style="color:#225675" href='https://jmlr.org/papers/v22/19-026.html' target="_blank"><i>Globally and quadratically convergent Newton method for sparse optimization</i></a><br>
-<a style="font-size: 16px; font-weight: bold; color:#007D98" href='https://www.southampton.ac.uk/maths/news/seminars/2018/12/13-cormsis-seminar.page' target="_blank">Cormsis Seminar</a>, University of Southampton, UK, 12 Dec 2018.
-
-* <a style="color:#225675" href='https://ieeexplore.ieee.org/document/8399531' target="_blank"><i>A fast matrix majorization-projection method for penalized stress minimization with box constraints</i></a><br>
-<a style="font-size: 16px; font-weight: bold; color:#007D98" href='https://www.southampton.ac.uk/maths/news/seminars/2018/01/11-siam-seminar.page' target="_blank">SIAM UKIE Annual Meeting</a>, Southampton, UK, 11 Jan 2018.
-
-* <a style="color:#225675" href='https://doi.org/10.1093/imaiai/iaw002' target="_blank"><i>Exact recovery for sparse signal via weighted l1 minimization</i></a><br>
-<a style="text-decoration:none; font-size: 16px; font-weight: bold; color:#007D98">CMP2014</a>, Luoyang, Henan Province, China, 12 May 2014. 
-
-* <a style="color:#225675" href='https://arxiv.org/abs/1308.0455' target="_blank"><i>New RIC bounds via lq minimization in compressed sensing</i></a><br>
-<a style="font-size: 16px; font-weight: bold; color:#007D98" href='http://lsec.cc.ac.cn/~icnonla13/index.htm' target="_blank">ICNONLA2013</a>, Changchun, China, 13 Sep 2013.
+ * Rank-2 Optimization Model for Multidimensional Scaling Graph Drawing (Role: PI, 2020-2022) <br>
+   The Royal Society (£12,000).
+ * EAT – Economic Aging of Transformers (Role: CI, 2019-2021; PI: A/F Stefano Coniglio) <br>
+   National Grid (£446,813).
+ * EDM Optimization: a new paradigm for dimension reduction (Role, PI, 2019-2021) <br>
+   The Alan Turing Institute (£9,798).
+ * Optimization Methods in Big Data (Role: PI, 2017-2019) <br>
+   The Royal Society (£12,000).
+ * Optimization models and algorithms for network data visualization (Role: CI, 2016-2018; PI: Prof. Joerg Fliege) <br>
+   The Royal Society (£11,745).
+ * Constrained multidimensional scaling in marketing research (PhD studentship, 2014-2017) <br>
+   VC Scholarship (£34,050)
+ * Large scale optimization of Euclidean distance matrices (Role: PI, 2013-2015) <br>
+   Engineering and Physical Science Research Council (£157,641).
+ * A class of matrix optimization in data mininin (PhD studentship for Dr Sohan Jahan, 2012-2016)<br>
+   Commonwealth Scholarship Council (£78,000).
+ * Nonsmooth equations in constrained best approximation with applications (Role: PI, 2006-2009) <br>
+   Engineering and Physical Science Research Council (£126,530).
+ * Nonsmooth optimization in portfolio risk analysis (PI: 2004-2005) <br>
+   University of Southampton Research Acceleration (£22,000).
