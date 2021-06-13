@@ -40,7 +40,7 @@ a:active {
    VC Scholarship (£34,050)
  * Large scale optimization of Euclidean distance matrices (Role: PI, 2013-2015) <br>
    Engineering and Physical Science Research Council (£157,641).
- * A class of matrix optimization in data mininin (PhD studentship for Dr Sohan Jahan, 2012-2016)<br>
+ * A class of matrix optimization in data mininin (PhD studentship for Dr Sohana Jahan, 2012-2016)<br>
    Commonwealth Scholarship Council (£78,000).
  * Nonsmooth equations in constrained best approximation with applications (Role: PI, 2006-2009) <br>
    Engineering and Physical Science Research Council (£126,530).
