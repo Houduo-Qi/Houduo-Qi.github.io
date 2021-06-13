@@ -35,7 +35,7 @@ a:active {
 <i>Quadratic convergence of Newton's method for 0/1 loss optimization</i>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/350442413" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>
-<p style="line-height: 1;"></p>
+#<p style="line-height: 1;"></p>
  </li>
 
 <li> Jian Shen, Jein-Shan Chen, Hou-Duo Qi, and Naihua Xiu, 08/2020 <br>
@@ -43,7 +43,7 @@ a:active {
  </li>
  
 <li> Chen Zhao, Naihua Xiu, Houduo Qi, and Ziyan Luo, 04/2020 (revised 02/2021) <br>
-<i>A Lagrange-Newton Algorithm for Sparse Nonlinear Programming</i>,
+<i>A Lagrange-Newton Algorithm for Sparse Nonlinear Programming</i>.
 </li>
 
 
