@@ -10,7 +10,7 @@ main:
     url: /software/
     
   - title: <span style="color:#225675"><b>Research Projects</b></span>
-    url: /research projects/    
+    url: /talks/    
     
   - title: <span style="color:#225675"><b>Talks</b></span>
-    url: /talks/      
+    url: /Research Projects/      
