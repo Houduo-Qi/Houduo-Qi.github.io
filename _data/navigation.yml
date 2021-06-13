@@ -5,12 +5,12 @@ main:
     
   - title: <span style="color:#225675"><b>Publications</b></span>
     url: /publications/
-    
-  - title: <span style="color:#225675"><b>Software</b></span>
-    url: /software/
-    
+      
   - title: <span style="color:#225675"><b>Research Projects</b></span>
     url: /talks/    
-    
+   
+  - title: <span style="color:#225675"><b>Software</b></span>
+    url: /software/
+  
   - title: <span style="color:#225675"><b>Talks</b></span>
     url: /research projects/      
