@@ -35,10 +35,11 @@ a:active {
   <a style="color:#225675" href="https://arxiv.org/abs/1901.02763" target="_blank"><i>Global and quadratic convergence of Newton hard-thresholding pursuit</i></a>.
   <p style="line-height: 1;"></p>
 
-  <details>
+ <!---  <details>
   <summary><span style="color:#007D98"><b style="font-size:16px">Click for more solvers</b></span></summary>
   <br> 
-
+  --->
+  
   <a style="font-size: 16px; font-weight: bold; color:#007D98" href="https://github.com/ShenglongZhou/IIHT" target="_blank">IIHT</a> solves the sparsity constrained optimization including CS, LR, LCP and etc.   <br>
   <a style="color:#225675" href="http://www.ybook.co.jp/online2/oppjo/vol13/p325.html" target="_blank"><i>A Convergent iterative hard thresholding for sparsity and nonnegativity constrained optimization</i></a>. 
   <p style="line-height: 1;"></p>
@@ -47,7 +48,7 @@ a:active {
   <a style="color:#225675" href="https://doi.org/10.1093/imaiai/iaw002" target="_blank"><i>A Null-space-based weighted L1 minimisation qpproach to compressed sensing</i></a>.
   <p style="line-height: 1;"></p>
 
-  <b> Two general forms of sparse optimization: </b> 
+ <!---  <b> Two general forms of sparse optimization: </b> 
 
    \begin{eqnarray*}
    \begin{array}{lll}
@@ -56,7 +57,7 @@ a:active {
    \end{array}
    \end{eqnarray*}
    where $f: \mathbb{R}^{ n}\rightarrow  \mathbb{R}$, $s\ll n, \lambda>0$ and $\Vert x \Vert_0$ is the so-called $\ell_0$ norm that counts the number of nonzero elements of $x$.  <br><br>
-
+--->
 
   <!---### <b> Applications of sparse optimization </b>  <br><br>
   * Compressed sensing (<span style="color:orange"><b>CS</b></span>):
@@ -80,7 +81,8 @@ a:active {
   \end{eqnarray}
   <br>
   --->
-
+  
+ <!---
    Applications solved by the aforementioned solvers are summarized in following table:<br>
 
    <table border="2" width="0.5">
@@ -118,7 +120,9 @@ a:active {
       </tr>
       </table>
   </details>
-
+--->
+  
+  
 ## <span style="color:#225675"><b style="font-size:20px">EDM Optimization Solvers</b></span>
 ---
 
