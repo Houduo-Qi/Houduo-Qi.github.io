@@ -41,6 +41,7 @@ a:active {
 <li> Hongxin Zhao, Lingchen Kong, and Houduo Qi, 2021<br>
 <i>Optimal Portfolio Selections via $\ell_{1, 2}$-norm Regularization</i><br>
   Computational Optimization and Applications, to appear.
+  <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/Houduo-Qi/mvpl12_for_PURE" target="_blank">Submitted version</a>
   </li>
 
 <li> Jian Shen, Jein-Shan Chen, Hou-Duo Qi, and Naihua Xiu, 08/2020 (revised 05/2021) <br>
