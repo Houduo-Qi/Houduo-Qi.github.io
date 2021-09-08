@@ -43,7 +43,7 @@ a:active {
   Computational Optimization and Applications, to appear.
   </li>
 
-<li> Jian Shen, Jein-Shan Chen, Hou-Duo Qi, and Naihua Xiu, 08/2020 (revised 05/2020) <br>
+<li> Jian Shen, Jein-Shan Chen, Hou-Duo Qi, and Naihua Xiu, 08/2020 (revised 05/2021) <br>
 <i>A Penalized Method of Alternating Projections for Weighted Low-Rank Hankel Matrix Optimization</i>,
   <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://github.com/slra/slra" target="_blank">Code</a>
  </li>
