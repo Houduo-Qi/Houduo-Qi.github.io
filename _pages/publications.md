@@ -31,16 +31,9 @@ a:active {
 
 <ul>
 
-<li> Houduo Qi, 2021 <br>
-  <i>On the Long-only Minimum Variance Portfolio Under Single Factor Model</i><br>
-  Operations Research Letter, 49 (2021), 795–801.
-<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://doi.org/10.1016/j.orl.2021.08.014" target="_blank">ORL</a>,
-<br>
-
-  </li>
-
 <li> S.L. Zhou, L.L. Pan, N.H. Xiu and H.D. Qi, 2021 <br>
-<i>Quadratic convergence of Newton's method for 0/1 loss optimization</i>,
+<i>Quadratic convergence of Newton's method for 0/1 loss optimization</i><br>
+  SIAM J. Optimization, to appear.
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://www.researchgate.net/publication/350442413" target="_blank">RG</a>,
 <a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://arxiv.org/abs/2103.14987" target="_blank">ArXiv</a>
  </li>
