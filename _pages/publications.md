@@ -39,7 +39,8 @@ a:active {
  </li>
 
 <li> Hongxin Zhao, Lingchen Kong, and Houduo Qi, 2021<br>
-<i>Optimal Portfolio Selections via $\ell_{1, 2}$-norm Regularization</i>
+<i>Optimal Portfolio Selections via $\ell_{1, 2}$-norm Regularization</i><br>
+  Computational Optimization and Applications, to appear.
   </li>
 
 <li> Jian Shen, Jein-Shan Chen, Hou-Duo Qi, and Naihua Xiu, 08/2020 (revised 05/2020) <br>
