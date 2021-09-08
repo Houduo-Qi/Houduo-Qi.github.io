@@ -65,6 +65,12 @@ a:active {
 <h3>   
 <a2><a name="tech"></a>Published</a2></h3>
 
+<li> Houduo Qi<br>
+  <i>On the Long-only Minimum Variance Portfolio Under Single Factor Model</i><br>
+  Operations Research Letter, 49 (2021), 795–801.
+<a style="font-size: 16px; font-weight: bold;color:#007D98" href="https://doi.org/10.1016/j.orl.2021.08.014" target="_blank">ORL</a>,
+<br>
+
 <li> S.L. Zhou, N.H. Xiu and H.D. Qi <br>
 <i>Global and quadratic convergence of Newton hard-thresholding pursuit</i><br>
   Journal of Machine Learning Research, 22(12):1−45, 2021.
